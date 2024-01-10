@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nithish-2112
-- 👀 I’m interested in App Development
+- 👀 I’m interested in Application Development
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on exciting projects 
 - 📫 How to reach me nithishreddy.e@gmail.com
